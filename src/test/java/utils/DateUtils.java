@@ -16,9 +16,9 @@ public class DateUtils {
         return formatter.format(date);
     }
 
-    public static String currentDateTime() {
-        DateTimeFormatter date;
-
-    }
+//    public static String currentDateTime() {
+//        DateTimeFormatter date;
+//
+//    }
 
 }

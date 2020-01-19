@@ -6,7 +6,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 import java.io.File;
 
-public class ScreenShots {
+public class ScreenShots extends DateUtils {
 
     public static void captureScreenShot(){
         String date = DateUtils.currentDateTime();

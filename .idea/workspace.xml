@@ -5,6 +5,10 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/base/TestBase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ScreenShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/SeleniumUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,5 +68,11 @@
       <updated>1579460556714</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579462970247">
+      <screen x="0" y="23" width="1239" height="777" />
+    </state>
+    <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1239.777@0.23.1239.777" timestamp="1579462970247" />
   </component>
 </project>
