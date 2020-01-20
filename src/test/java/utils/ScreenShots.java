@@ -1,12 +1,13 @@
 package utils;
 
+import base.TestBase;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
 import java.io.File;
 
-public class ScreenShots extends DateUtils {
+public class ScreenShots extends TestBase {
 
     public static void captureScreenShot(){
         String date = DateUtils.currentDateTime();

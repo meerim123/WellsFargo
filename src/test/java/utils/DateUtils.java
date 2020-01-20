@@ -16,9 +16,11 @@ public class DateUtils {
         return formatter.format(date);
     }
 
-//    public static String currentDateTime() {
-//        DateTimeFormatter date;
-//
-//    }
+    public static String currentDateTime(){
+        DateTimeFormatter date = DateTimeFormatter.ofPattern("HH:mm:ss dd/MM/yyy");
+        LocalDateTime now = LocalDateTime.now();
+        return date.format(now);
+    }
+
 
 }

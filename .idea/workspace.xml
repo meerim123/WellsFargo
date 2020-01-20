@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7d92911-4b32-4b66-ac3e-c1256eeb9dd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ScreenShots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/SeleniumUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/configurations/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configurations/configurations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ScreenShots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/SeleniumUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,67 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="TestNG.SecondPageTest">
+    <configuration name="ATMpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="io.bank.wellsfargo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ATMpageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="io.bank.wellsfargo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="io.bank.wellsfargo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SecondPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SecondPageTest" />
+        <item itemvalue="TestNG.ATMpageTest" />
+        <item itemvalue="TestNG.HomePageTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -70,9 +129,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579462970247">
+    <state x="378" y="163" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579549698943">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="163" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1579549698943" />
+    <state x="100" y="123" width="1039" height="577" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579466122054">
       <screen x="0" y="23" width="1239" height="777" />
     </state>
+    <state x="100" y="123" width="1039" height="577" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1239.777@0.23.1239.777" timestamp="1579466122054" />
+    <state x="352" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579554055390">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="352" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1579554055390" />
     <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1239.777@0.23.1239.777" timestamp="1579462970247" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1579552537675">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579552537675" />
+    <state width="1197" height="197" key="GridCell.Tab.0.bottom/0.23.1239.777@0.23.1239.777" timestamp="1579466162090" />
+    <state width="1197" height="197" key="GridCell.Tab.0.bottom/0.23.1240.777@0.23.1240.777" timestamp="1579469407557" />
+    <state width="1197" height="197" key="GridCell.Tab.0.bottom/0.23.1241.777@0.23.1241.777" timestamp="1579490046077" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1579552537673">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579552537673" />
+    <state width="1197" height="197" key="GridCell.Tab.0.center/0.23.1239.777@0.23.1239.777" timestamp="1579466162088" />
+    <state width="1197" height="197" key="GridCell.Tab.0.center/0.23.1240.777@0.23.1240.777" timestamp="1579469407556" />
+    <state width="1197" height="197" key="GridCell.Tab.0.center/0.23.1241.777@0.23.1241.777" timestamp="1579490046075" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1579552537673">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579552537673" />
+    <state width="1197" height="197" key="GridCell.Tab.0.left/0.23.1239.777@0.23.1239.777" timestamp="1579466162087" />
+    <state width="1197" height="197" key="GridCell.Tab.0.left/0.23.1240.777@0.23.1240.777" timestamp="1579469407555" />
+    <state width="1197" height="197" key="GridCell.Tab.0.left/0.23.1241.777@0.23.1241.777" timestamp="1579490046074" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1579552537674">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579552537674" />
+    <state width="1197" height="197" key="GridCell.Tab.0.right/0.23.1239.777@0.23.1239.777" timestamp="1579466162089" />
+    <state width="1197" height="197" key="GridCell.Tab.0.right/0.23.1240.777@0.23.1240.777" timestamp="1579469407556" />
+    <state width="1197" height="197" key="GridCell.Tab.0.right/0.23.1241.777@0.23.1241.777" timestamp="1579490046076" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1579548180338">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1579548180338" />
   </component>
 </project>

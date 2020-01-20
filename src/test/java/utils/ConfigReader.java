@@ -1,11 +1,13 @@
 package utils;
 
+import base.TestBase;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ConfigReader {
+public class ConfigReader extends TestBase {
 
     public static String readProperty(String filePath, String property){
         Properties prop = null;
