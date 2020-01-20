@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7d92911-4b32-4b66-ac3e-c1256eeb9dd9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/configurations/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configurations/configurations.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/DateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ScreenShots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/SeleniumUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="TestNG.SecondPageTest">
+  <component name="RunManager" selected="TestNG./Users/meerimzh/IdeaProjects/io.bank.wellsfargo/testng.xml">
     <configuration name="ATMpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="io.bank.wellsfargo" />
       <extension name="coverage">
@@ -95,8 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/meerimzh/IdeaProjects/io.bank.wellsfargo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="io.bank.wellsfargo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/meerimzh/IdeaProjects/io.bank.wellsfargo/testng.xml" />
         <item itemvalue="TestNG.SecondPageTest" />
         <item itemvalue="TestNG.ATMpageTest" />
         <item itemvalue="TestNG.HomePageTest" />
@@ -142,31 +148,31 @@
     </state>
     <state x="352" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1579554055390" />
     <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1239.777@0.23.1239.777" timestamp="1579462970247" />
-    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1579552537675">
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1579554482201">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579552537675" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579554482201" />
     <state width="1197" height="197" key="GridCell.Tab.0.bottom/0.23.1239.777@0.23.1239.777" timestamp="1579466162090" />
     <state width="1197" height="197" key="GridCell.Tab.0.bottom/0.23.1240.777@0.23.1240.777" timestamp="1579469407557" />
     <state width="1197" height="197" key="GridCell.Tab.0.bottom/0.23.1241.777@0.23.1241.777" timestamp="1579490046077" />
-    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1579552537673">
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1579554482197">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579552537673" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579554482197" />
     <state width="1197" height="197" key="GridCell.Tab.0.center/0.23.1239.777@0.23.1239.777" timestamp="1579466162088" />
     <state width="1197" height="197" key="GridCell.Tab.0.center/0.23.1240.777@0.23.1240.777" timestamp="1579469407556" />
     <state width="1197" height="197" key="GridCell.Tab.0.center/0.23.1241.777@0.23.1241.777" timestamp="1579490046075" />
-    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1579552537673">
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1579554482195">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579552537673" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579554482195" />
     <state width="1197" height="197" key="GridCell.Tab.0.left/0.23.1239.777@0.23.1239.777" timestamp="1579466162087" />
     <state width="1197" height="197" key="GridCell.Tab.0.left/0.23.1240.777@0.23.1240.777" timestamp="1579469407555" />
     <state width="1197" height="197" key="GridCell.Tab.0.left/0.23.1241.777@0.23.1241.777" timestamp="1579490046074" />
-    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1579552537674">
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1579554482198">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579552537674" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579554482198" />
     <state width="1197" height="197" key="GridCell.Tab.0.right/0.23.1239.777@0.23.1239.777" timestamp="1579466162089" />
     <state width="1197" height="197" key="GridCell.Tab.0.right/0.23.1240.777@0.23.1240.777" timestamp="1579469407556" />
     <state width="1197" height="197" key="GridCell.Tab.0.right/0.23.1241.777@0.23.1241.777" timestamp="1579490046076" />
